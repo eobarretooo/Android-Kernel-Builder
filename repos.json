@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "marble",
-      "repo": "https://github.com/ViP3R-KERNELs/kernel_xiaomi_marble",
+      "repo": "https://github.com/eobarretooo/kernel_xiaomi_marble",
       "branch": "thirteen",
       "device": "marble"
     },
